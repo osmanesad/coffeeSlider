@@ -40,14 +40,14 @@ body {
 }
 
 .card > .row {
-    color: white;
+    color: rgb(255, 255, 255);
     display: flex;
     flex-wrap: nowrap;
 }
 
 .card > .row > .icon {
-    background: #223;
-    color: white;
+    
+    color: rgb(0, 0, 0);
     border-radius: 30%;
     width: 50px;
     display: flex;
@@ -73,7 +73,7 @@ body {
     
     padding: 12px;
     color: #ffffff;
-    
+    border-radius: 12px 0px 0px 0px;
     background-color: rgba(34, 34, 51, 0.164);
     
     
